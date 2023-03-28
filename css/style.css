@@ -163,6 +163,10 @@ button {
 
 /* 2 Navbar */
 
+.navbar {
+    background-color: #000;
+}
+
 .header_wrapper .navbar {
     padding: 15px 0;
     -webkit-transition: all .2s linear;
